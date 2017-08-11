@@ -7,4 +7,4 @@ Using curses library tested with Python 2.3 - 2.7
 
 How it looks : 
 
-![img](https://matrix-effect.googlecode.com/hg/matrix-effect.png)
+![img](https://github.com/peileppe/matrix-effect/blob/master/matrix-effect.png)
